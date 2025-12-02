@@ -64,7 +64,7 @@ Model used:
 
 Training performed using:
 
-model.fit(X_train, Y_train)
+- model.fit(X_train, Y_train)
 
 ---
 
